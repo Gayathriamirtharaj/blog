@@ -12,7 +12,7 @@ const routes: Routes = [
     component:NavigationComponent
   },
   {
-    path:"",
+    path:"blog-list",
     component:BlogListComponent
   },
   {
